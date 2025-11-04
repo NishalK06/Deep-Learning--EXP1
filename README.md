@@ -51,9 +51,9 @@ Use the trained model to predict for a new input value .
 
 # PROGRAM
 
-**Name**: HANIEL REENA D R
+**Name**: Nishal K
 
-**Register Number:** 2305001008
+**Register Number:** 2305001021
 ```
 from google.colab import auth
 import gspread
